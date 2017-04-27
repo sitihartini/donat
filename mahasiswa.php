@@ -6,9 +6,14 @@ class mahasiswa
 	public $nama;
 
 	public tambah(){
-
 	return true;
 }
+
+
+	public function hapus(){
+		return true;
 }
+
+	}
 
 ?>
