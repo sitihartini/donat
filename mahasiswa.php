@@ -9,6 +9,9 @@ class mahasiswa
 
 	return true;
 }
+public function ganti_foto()
+return true;
+
 }
 
 ?>
