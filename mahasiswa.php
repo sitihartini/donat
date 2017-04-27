@@ -1,14 +1,16 @@
 <?php
 
-class mahasiswa
-{
+class mahasiswa {
 	public $nim;
 	public $nama;
 
 	public tambah(){
+		return true;
+	}
 
-	return true;
-}
+	public function ubah(){
+		return true;
+	}
 }
 
 ?>
