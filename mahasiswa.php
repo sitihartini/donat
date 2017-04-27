@@ -16,8 +16,11 @@ class mahasiswa {
 	public function ubah(){
 		return true;
 	}
+	public function ganti_foto() {
+		return true;
+
+	}
 
 }
-
 
 ?>
